@@ -13,3 +13,7 @@ title: 网站构建说明
 我使用 [Material for MkDocs](https://github.com/squidfunk/mkdocs-material) 将 `Markdown文件` 渲染为 `HTML网页` 并使用 `GitHub Pages` 进行发布
 
 [Material for MkDocs 文档](https://squidfunk.github.io/mkdocs-material/)
+
+## MDBook和MKDocs
+
+个人认为MKDocs的使用体验上较为不错,MDBook更适合不需要分类的记录

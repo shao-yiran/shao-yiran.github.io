@@ -14,11 +14,12 @@ title: 记录
 ###  macOS因系统占用无法推出移动硬盘问题
 
 > 清空后台后,还是显示占用
-> **方法一:关机**
+> **方法一:非强制性关机的关机**
 > 方法二:获取占用进程的PID
 
 ```
-$ diskutil unmount /volums /disk name
+$ df -lh #获取你的移动硬盘名
+$ diskutil unmount /dev/`对应移动硬盘名` #此时也会弹出无法推出的报错,但是会提供占用程序的PID
 $ kill -9 `对应PID`
 ```
 

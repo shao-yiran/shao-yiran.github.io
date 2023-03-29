@@ -14,7 +14,7 @@ nav:
       - git暂未解决的问题: LEARN/G&G/warn.md
     - Linux&Unix方面:
       - 常用指令: LEARN/L&U/1.md
-    - macOS
+    - macOS:
       - 使用过的指令记录: LEARN/macOS/1.md
       - 遇到的问题(部分解决): LEARN/macOS/warn.md
   - 讲稿:

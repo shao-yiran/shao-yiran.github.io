@@ -10,9 +10,13 @@ nav:
     - LEARN/index.md
     - git及GitHub方面:
       - git的常用指令: LEARN/G&G/1.md
+      - git出现的问题及解决方法: LEARN/G&G/2.md
+      - git暂未解决的问题: LEARN/G&G/warn.md
     - Linux&Unix方面:
       - 常用指令: LEARN/L&U/1.md
-    - macOS使用过的指令记录: LEARN/macOS/1.md
+    - macOS
+      - 使用过的指令记录: LEARN/macOS/1.md
+      - 遇到的问题(部分解决): LEARN/macOS/warn.md
   - 讲稿:
     - LECTURE/index.md
   - 二次元:
@@ -24,7 +28,11 @@ nav:
       - 好: ACG/Anime/anime-rating-good.md
       - 补番倾向: ACG/Anime/new-anime-criterion.md
     - 喜欢的:
+      - 角色: ACG/Sukina/kawaii.md
       - 插画: ACG/Sukina/pictures.md
+      - 画师: ACG/Sukina/aritsts.md
+      - Vtuber: ACG/Sukina/vtuber.md
+      - CV: ACG/Sukina/voice.md
     - Game:
       - Galgame: ACG/Game/Galgame/gal.md
       - Genshin Impact: ACG/Game/Genshin Impact/yuanshen.md
@@ -33,7 +41,9 @@ nav:
     - THREE/index.md
     - 吐槽: 
       - THREE/Articles/230324.md
-    - 喜欢的女生: THREE/Articles/girl.md
+    - 随心记:
+      - THREE/Less/2303.md
+    - 喜欢的女生: THREE/girl.md
   - 关于:
     - ABOUT/index.md
     - 建站原因: ABOUT/Reason.md

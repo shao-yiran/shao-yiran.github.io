@@ -14,6 +14,6 @@ title: 网站构建说明
 
 [Material for MkDocs 文档](https://squidfunk.github.io/mkdocs-material/)
 
-## MDBook和MKDocs
+## MkDocs和mdBook
 
-个人认为MKDocs的使用体验上较为不错,MDBook更适合不需要分类的记录
+个人认为MkDocs的使用体验上较为不错,mdBook更适合不需要分类的记录

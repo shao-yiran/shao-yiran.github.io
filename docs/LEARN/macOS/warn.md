@@ -25,7 +25,7 @@ $ kill -9 `对应PID`
 
 #### 「windows」
 > 为应对虚拟机
-> **方法一:关机**
+> **方法一:非强制性关机的关机**
 > 方法二:通过管理事件查看警告内的占用程序:点击开始菜单或者win键-搜索框输入eventvwr，打开事件查看器
 
 > https://blog.csdn.net/twocanis/article/details/124475614

@@ -19,6 +19,10 @@ nav:
       - 遇到的问题(部分解决): LEARN/macOS/warn.md
   - 讲稿:
     - LECTURE/index.md
+    - Royal TSX从入门到高效使用:
+      - 什么是Royal TSX : LECTURE/RT/0.md
+      - Royal TSX的配置: LECTURE/RT/1.md
+      - Royal TSX的高效使用技巧: LECTURE/RT/2.md
   - 二次元:
     - ACG/index.md
     - 番:
